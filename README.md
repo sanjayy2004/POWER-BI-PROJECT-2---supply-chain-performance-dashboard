@@ -1,6 +1,6 @@
 # Supply Chain Performance Dashboard
-
-### Dashboard Link : [Add your published Power BI Service link here]
+### KAGGLE Dataset link : [https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis]
+### Dashboard Link : [https://app.powerbi.com/links/j7ZHEvWrYw?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare&bookmarkGuid=aaab1864-6ace-48e0-a469-54d893ec4ebc]
 
 ## Problem Statement
 
